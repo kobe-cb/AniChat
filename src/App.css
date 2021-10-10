@@ -1,0 +1,21 @@
+/* The Entire App */
+.app {
+  /* Places items center */
+  display: grid;
+  place-items: center;
+  background-color: #dadbd3;
+  height: 100vh;
+}
+
+/*The main body */
+.app__body {
+  /* expands items to fill available free space or shrinks to prevent overflow */
+  display: flex;
+  /* Shifts up to addressbar a little */
+  margin-top: -50px;
+  /* 90 x 90 box */
+  height: 90vh;
+  width: 90vw;
+  background-color: #ededed;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.7);
+}
