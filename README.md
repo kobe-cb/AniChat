@@ -5,6 +5,9 @@ Web-based chatting app built on
 - React Router, React Context API
 - Material UI (Design)
 
+ ![image](./custom_KB/login.png)
+ ![image](./custom_KB/room.png)
+
 Allows people to create chat rooms where they can chat with multiple people in real time. Accounts are based on google authentication. 
 
 # Getting Started with Create React App
